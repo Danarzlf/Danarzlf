@@ -6,6 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danarzlf&label=Profile%20views&color=0e75b6&style=flat" alt="danarzlf" /> </p> 
 
+
+
+<p align="left">
+  <a href="https://www.tiktok.com/@narrizzymma">
+    <img src="https://komarev.com/ghpvc/?username=danarzlf&label=Profile%20views&color=0e75b6&style=flat" alt="danarzlf" />
+  </a>
+</p>
+
 - 🌱 I’m currently learning **React js & Node js ,Binar Academy**
 
 - 💬 Ask me about **Danarzlf10@gmail.com**
