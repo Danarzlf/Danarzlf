@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **React js & Node js ,Binar Academy**
+- 🌱 Full Stack Web Developer
 
 - 💬 Ask me about **Danarzlf10@gmail.com**
 
